@@ -57,10 +57,6 @@ Discussions can sometimes become quite vague, so I thought I would make
 some specific predictions about specific capabilities in specific
 timeframes.
 
-Later (next Christmas?) I can maybe substantiate why I believe and
-predict as I do, but for now, the first step is just to make the
-predictions.
-
 It is immensely difficult to make predictions concerning self-driving
 vehicles. Because maybe the technology will be good enough, but
 regulation will not allow it and public opinion will be against it.
