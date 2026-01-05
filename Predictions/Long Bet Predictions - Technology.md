@@ -388,6 +388,5 @@ least one more non-terrestrial locale in the solar system.
 
 # Prediction: AGI
 
-Date: 2025-01-18
-
-Pending definition, but feels like around 2028 ish.
+- [AGI Prediction v1 (2025-01-18)](agi-prediction-v1-20250118.md)
+- [AGI Prediction v2 (2025-12-29)](agi-prediction-v2-20251229.md)
